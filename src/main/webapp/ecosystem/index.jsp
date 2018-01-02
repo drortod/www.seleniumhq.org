@@ -59,6 +59,10 @@
 
     <ul>
         <li>
+            <a rel="nofollow" href="http://testcraft.io">TestCraft</a> -
+            Codeless Test Automation for web applications leveraging the power of Selenium.
+        </li>
+        <li>
             <a rel="nofollow" href="http://TestOptimal.com">TestOptimal</a> -
             A Model-Based test automation tool leveraging the power of Selenium.
         </li>
